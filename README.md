@@ -8,3 +8,5 @@
 - [tkinter](https://docs.python.org/3/library/tkinter.html) for window creation
 - [Pillow (aka PIL)](https://github.com/python-pillow/Pillow) for allowing OpenCV images to show on tkinter windows
 - [tkinter](https://github.com/asweigart/pyperclip) for copying hex values to user's clipboard
+
+Copyright (c) [2024] [Austin Molina]
